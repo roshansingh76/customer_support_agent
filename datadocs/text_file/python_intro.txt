@@ -1,0 +1,15 @@
+Python is a high-level, interpreted, general-purpose programming language. It is widely used in web development, automation, data science, machine learning, and Generative AI.
+
+Since you're moving towards AI development with Python, FastAPI, and RAG, let's learn Python concepts with practical examples.
+
+1. What is Python?
+Easy-to-read and simple syntax.
+
+2. Dynamically typed language.
+
+3 .Object-oriented and functional programming support.
+
+4. Large collection of libraries.
+
+5. Used for AI, ML, NLP, APIs, and RAG applications.
+
