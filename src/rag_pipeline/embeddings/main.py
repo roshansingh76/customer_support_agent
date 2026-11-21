@@ -22,7 +22,7 @@ class EmbeddingManager:
                 f"Error loading embedding model '{self.model_name}': {exc}"
             ) from exc
 
-        dimension = self.model.get_sentence_embedding_dimension()
+        dimension = self.model.get_embedding_dimension()
         print(
             f"Model loaded successfully. "
             f"Embedding dimension: {dimension}"

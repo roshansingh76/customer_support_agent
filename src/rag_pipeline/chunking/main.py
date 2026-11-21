@@ -41,6 +41,7 @@ class ChunkingManager:
             separators=["\n\n", "\n", " ", ""],
             keep_separator=False,
             strip_whitespace=True,
+            add_start_index=True,
         )
 
         split_documents = text_splitter.split_documents(self.documents)
